@@ -11,6 +11,7 @@
 # Generated files
 bin/
 gen/
+out/
 
 # Gradle files
 .gradle/
@@ -30,3 +31,24 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+# Intellij
+*.iml
+
+#Keystore files
+*.jks
+
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+
+gradlew
+gradle/wrapper/gradle-wrapper.properties
+gradle-wrapper.jar
+gradlew.bat
+
